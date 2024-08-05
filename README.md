@@ -22,7 +22,7 @@ A simple Student Management System built with Node.js, Express, and MongoDB. Thi
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/student-management-system.git
+    https://github.com/web3uservj/store-details-using-mongodb-local-server.git
     ```
 
 2. **Navigate to the project directory:**
