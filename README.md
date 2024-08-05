@@ -69,6 +69,7 @@ Fetch all students.
 ]
 
 POST /api/students
+
 Add a new student.
 
 Request Body:
@@ -93,7 +94,9 @@ Update an existing student.
     "age": 21,
     "grade": "B"
 }
+
 Response:
+
 {
     "_id": "student_id",
     "name": "Updated Name",
@@ -102,6 +105,7 @@ Response:
 }
 
 DELETE /api/students/
+
 Delete a student.
 
 Response:
@@ -110,13 +114,14 @@ Response:
 }
 
 Contributing
+
 Feel free to open issues or submit pull requests if you want to contribute to this project.
 
 Acknowledgements
+
 Express
 Mongoose
 Node.js
-
 
 You can customize this file further according to your specific requirements or add additional sections like "FAQ" or "Troubleshooting" if needed.
 
