@@ -1,5 +1,6 @@
 # Student Management System
-![image](https://github.com/user-attachments/assets/e7145e2a-eb39-4262-bdfc-6b21ca8d00f6)
+![Sample Image](assets/example.png)
+
 
 
 A simple Student Management System built with Node.js, Express, and MongoDB. This application allows you to manage student records with basic CRUD operations.
