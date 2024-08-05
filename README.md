@@ -33,7 +33,7 @@ A simple Student Management System built with Node.js, Express, and MongoDB. Thi
 3. **Install dependencies:**
 
     ```bash
-    npm install
+    npm install express mongoose body-parser
     ```
 
 4. **Setup MongoDB:**
