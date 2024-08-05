@@ -68,51 +68,6 @@ Fetch all students.
     }
 ]
 
-POST /api/students
-
-Add a new student.
-
-Request Body:
-{
-    "name": "Student Name",
-    "age": 20,
-    "grade": "A"
-}
-Response:
-{
-    "_id": "student_id",
-    "name": "Student Name",
-    "age": 20,
-    "grade": "A"
-}
-
-PUT /api/students/
-Update an existing student.
-
-{
-    "name": "Updated Name",
-    "age": 21,
-    "grade": "B"
-}
-
-Response:
-
-{
-    "_id": "student_id",
-    "name": "Updated Name",
-    "age": 21,
-    "grade": "B"
-}
-
-DELETE /api/students/
-
-Delete a student.
-
-Response:
-{
-    "message": "Student deleted"
-}
-
 Contributing
 
 Feel free to open issues or submit pull requests if you want to contribute to this project.
