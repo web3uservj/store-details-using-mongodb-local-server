@@ -68,17 +68,7 @@ Fetch all students.
     }
 ]
 
-Contributing
 
-Feel free to open issues or submit pull requests if you want to contribute to this project.
-
-Acknowledgements
-
-Express
-Mongoose
-Node.js
-
-You can customize this file further according to your specific requirements or add additional sections like "FAQ" or "Troubleshooting" if needed.
 
 
 
